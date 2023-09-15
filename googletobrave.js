@@ -6,6 +6,7 @@
 // @author       You
 // @match        *://www.google.com/search?*
 // @grant        none
+// @run-at       document-start
 // ==/UserScript==
 
 (function() {
